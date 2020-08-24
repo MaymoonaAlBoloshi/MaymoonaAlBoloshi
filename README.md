@@ -1,6 +1,6 @@
 ### Hi there 👋
-[](https://github-readme-stats.vercel.app/api?username=MaymoonaAlBoloshi&count_private=true&show_icons=true)
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=MaymoonaAlBoloshi&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MaymoonaAlBoloshi&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaymoonaAlBoloshi&layout=compact)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--
