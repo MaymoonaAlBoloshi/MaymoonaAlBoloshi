@@ -1,4 +1,4 @@
-### fun fact: nomatter how many website you accept cookies from you'll never get to taste one
+### not fun fact: websites well ask you accept cookies, but they'll never give you one :(
 ![](https://github-readme-stats.vercel.app/api?username=MaymoonaAlBoloshi&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaymoonaAlBoloshi&layout=compact)
 <!--START_SECTION:waka-->
