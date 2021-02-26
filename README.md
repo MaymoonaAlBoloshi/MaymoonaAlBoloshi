@@ -3,12 +3,12 @@
 <h1 align="center">HEY!! Maymoona here</h1>
 <h3 align="center">A passionate frontend developer from Oman</h3>
 
-- 🔭 I’m currently working on **GoLands**
 
-- 🌱 I’m currently learning **Flutter and imporving my react skills**
 
-- 📫 How to reach me **Maymoona.al.boloshi@gmail.com**
 
+<br/>
+<br/><br/>
+<br/>
 
 <br/>
 
