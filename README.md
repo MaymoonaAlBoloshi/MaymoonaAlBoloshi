@@ -18,5 +18,4 @@
 <br/>
 <h3 align="left">Stats:</h3>
 
-<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maymoonaalboloshi&&theme=dark" alt="maymoonaalboloshi" /></p>
