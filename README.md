@@ -1,4 +1,6 @@
-<h1 align="center">HEY!! Maymoona Ali</h1>
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="left" width="400" height="300" />
+
+<h1 align="center">HEY!! Maymoona here</h1>
 <h3 align="center">A passionate frontend developer from Oman</h3>
 
 - 🔭 I’m currently working on **GoLands**
