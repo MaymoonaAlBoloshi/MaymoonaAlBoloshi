@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **Maymoona.al.boloshi@gmail.com**
 
-- ⚡ Fun fact **Facts are fun**
 
 <br/>
 
