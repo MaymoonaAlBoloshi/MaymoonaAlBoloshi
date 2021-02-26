@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="left" width="400" height="300" />
+<img src="https://media.giphy.com/media/26n6CWImwECKu3fy0/giphy.gif" align="left" width="400" height="300" />
 
 <h1 align="center">HEY!! Maymoona here</h1>
 <h3 align="center">A passionate frontend developer from Oman</h3>
